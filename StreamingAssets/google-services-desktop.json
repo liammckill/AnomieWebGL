@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513627724464",
+    "project_id": "anomiexr-47d08",
+    "storage_bucket": "anomiexr-47d08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513627724464:android:3f6cd1a5593e9f6bf1f975",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Anomie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513627724464-0o97bl9epjhq8m0ei2ju3mogvffphiv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0rhSMsqx9X6H5Ku2GMtfUYpJPICOrbMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513627724464-0o97bl9epjhq8m0ei2ju3mogvffphiv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
